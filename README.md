@@ -1,2 +1,2 @@
 # cod34Life
-This Repository is only for Proffessional Coders, who have real Intrest towards coding
+This Repository is only for Professional Coders, who have real interest towards coding.
